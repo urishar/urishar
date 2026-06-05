@@ -44,6 +44,11 @@ The project focuses on object-oriented programming, game logic, user interaction
 
 An end-to-end information systems project that started with business analysis and requirements gathering, continued through UML modeling and database design, and ended with implementation using C# and SQL Server.
 
+### [Event-Driven Simulation Project](https://github.com/urishar/water-park-discrete-event-simulation)
+
+A simulation project based on event-driven modeling, sampling algorithms, and scenario comparison.  
+The goal was to analyze system performance and support better decision making through structured simulation results.
+
 ### Scheduling Optimization in Excel
 
 A scheduling optimization project using **Excel Solver and VBA**.  
@@ -53,11 +58,6 @@ The project implements a P2||Cmax model to minimize completion time and support 
 
 A database-focused project involving relational table design, advanced SQL queries, triggers, views, and inventory-oriented analysis.  
 The project emphasizes data modeling, database logic, and practical business reporting.
-
-### Event-Driven Simulation Project
-
-A simulation project based on event-driven modeling, sampling algorithms, and scenario comparison.  
-The goal was to analyze system performance and support better decision making through structured simulation results.
 
 ### Cognitive Performance Regression Analysis
 
